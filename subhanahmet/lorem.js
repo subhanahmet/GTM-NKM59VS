@@ -1,4 +1,0 @@
-
-// Copyright All rights reserved.
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed hendrerit orci. Donec non auctor ex. Nam vulputate justo quis semper dapibus. Donec aliquam dictum sem, vel vestibulum tortor dapibus ut. Sed pellentesque quis metus in ullamcorper. Maecenas viverra, est ac lacinia placerat, neque odio elementum sapien, id pulvinar lorem urna vel mi. Nam at felis a lacus commodo aliquam nec a lacus. Fusce in sapien vel nulla tempor mollis. Suspendisse congue tempor leo, in volutpat metus venenatis eu. Aliquam erat volutpat. Vestibulum sit amet nisi faucibus justo bibendum volutpat vel id tellus. Sed congue odio arcu, et laoreet est ultricies sed. Vivamus imperdiet, ligula et pretium vulputate, nisl lectus volutpat ipsum, in bibendum ante nisi eget erat. Aenean neque lacus, ultrices vitae ullamcorper id, finibus vitae eros.
